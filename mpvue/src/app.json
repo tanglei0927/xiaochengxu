@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/write/main",
+    "pages/diary/main",
     "pages/time/main",
     "pages/index/main",
     "pages/logs/main",
