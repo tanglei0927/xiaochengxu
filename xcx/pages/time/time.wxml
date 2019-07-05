@@ -1,0 +1,5 @@
+<!--pages/time/time.wxml-->
+<view>
+  <view wx:if=""></view>
+  <view></view>
+</view>
